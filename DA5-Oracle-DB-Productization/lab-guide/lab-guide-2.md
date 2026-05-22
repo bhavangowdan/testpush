@@ -1,14 +1,8 @@
 ## Generic Automation — Common Infrastructure Automation Assessment
 
-<br>
-
 ### Estimated duration: 90 minutes
 
-<br>
-
-### What this assessment is
-
-<br>
+### What this assessment is NOT
 
 This is a **technology-agnostic automation** assessment designed as a **common yardstick for all infrastructure engineers**, regardless of domain specialty.
 
