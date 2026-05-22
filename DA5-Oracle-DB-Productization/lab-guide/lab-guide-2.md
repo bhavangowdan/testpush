@@ -85,7 +85,7 @@ If no thresholds are breached, `alerts` must be an empty array `[]` — not abse
 
 **Expected outcome**: report file exists at the specified path, parses as valid JSON, contains all required top-level keys, and re-running the script produces exactly one report file with a refreshed `collected_at` timestamp.
 
-<validation step="replace-me-uuid-s1-health-reporter" />
+<validation step="5e0cfaab-fe4f-4a92-b3fd-32c718c89246" />
 
 ---
 
@@ -136,7 +136,7 @@ Required report structure:
 
 **Expected outcome**: files older than 7 days are compressed and present in the archive folder; archive contains only compressed files for dates between 8 and 30 days ago; staging area retains only files ≤ 7 days old; `lifecycle-report.json` exists, parses as valid JSON, and counts match the actual file movements.
 
-<validation step="replace-me-uuid-s2-log-lifecycle" />
+<validation step="5e0cfaab-fe4f-4a92-b3fd-32c718c89246" />
 
 ---
 
@@ -214,7 +214,7 @@ After the script runs, the previously stopped service must be running, the previ
 
 **Expected outcome**: `drift-report.json` exists, parses as valid JSON, and shows `drifted: 0` after remediation; `audit.log` exists with every line parsing as valid JSON and contains at least one `"action":"create"` entry (for the directory) and one `"action":"start"` entry (for the service).
 
-<validation step="replace-me-uuid-s3-drift-remediation" />
+<validation step="5e0cfaab-fe4f-4a92-b3fd-32c718c89246" />
 
 ---
 
