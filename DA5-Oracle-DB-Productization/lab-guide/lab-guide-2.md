@@ -1,12 +1,12 @@
 ## Generic Automation — Common Infrastructure Automation Assessment
-
+<br>
 ### Estimated duration: 90 minutes
-
+<br>
 ### What this assessment is
+<br>
+This is a **technology-agnostic automation** assessment designed as a **common yardstick for all infrastructure engineers**, regardless of domain specialty.
 
-This is a **technology-agnostic automation** assessment designed as a **common yardstick for all infrastructure engineers**, regardless of domain specialty — database, compute, storage, middleware, network, mainframe, or platform engineering.
-
-You pick the tool you already know: **Bash on Ubuntu** or **PowerShell on Windows**. The validations grade the *outcome* across three progressive difficulty tiers. You may attempt all three sections or stop at any tier — each section is independently scored.
+You pick the tool you already know: **Bash**,**Poweshell**, **Ansible**, **Python**, **Terraform**. The validations grade the *outcome* across three progressive difficulty tiers. You may attempt all three sections or stop at any tier — each section is independently scored.
 
 ### What this assessment is NOT
 
@@ -26,13 +26,16 @@ You pick the tool you already know: **Bash on Ubuntu** or **PowerShell on Window
 1. The public DNS name and **VM Admin Password** for each VM are shown on the **Environment Details** tab. Use those credentials:
 
    * Linux SSH: `ssh azureuser@<linux-dns-name>` then enter the VM Admin Password.
-   * Windows RDP: open Remote Desktop, server `<windows-dns-name>`, user `azureuser`, then enter the VM Admin Password.
 
 ---
 
 ## Section 1 — Basic: Automated System Health Reporter
 
+<br>
+
 ### Estimated duration: 30 minutes | Level: Foundational
+
+<br>
 
 ### Section Objective
 
