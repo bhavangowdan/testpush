@@ -1,6 +1,9 @@
 ## Generic Automation — Common Infrastructure Automation Assessment
 
+
 ### Estimated duration: 90 minutes
+
+
 
 ### What this assessment is NOT
 
