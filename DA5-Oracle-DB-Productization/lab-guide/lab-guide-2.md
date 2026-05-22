@@ -1,9 +1,15 @@
 ## Generic Automation — Common Infrastructure Automation Assessment
+
 <br>
+
 ### Estimated duration: 90 minutes
+
 <br>
+
 ### What this assessment is
+
 <br>
+
 This is a **technology-agnostic automation** assessment designed as a **common yardstick for all infrastructure engineers**, regardless of domain specialty.
 
 You pick the tool you already know: **Bash**,**Poweshell**, **Ansible**, **Python**, **Terraform**. The validations grade the *outcome* across three progressive difficulty tiers. You may attempt all three sections or stop at any tier — each section is independently scored.
