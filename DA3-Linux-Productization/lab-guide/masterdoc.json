@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "McKinsey DA3 - Linux Productization: Ubuntu Hardening & Service Stack",
+    "Language": "English",
+    "BaseURL": "https://github.com/bhavangowdan/testpush",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/bhavangowdan/testpush/main/DA3-Linux-Productization/lab-guide/lab-guide-1.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/bhavangowdan/testpush/main/DA3-Linux-Productization/lab-guide/lab-guide-2.md",
+        "Order": 2
+      }
+    ]
+  }
+]

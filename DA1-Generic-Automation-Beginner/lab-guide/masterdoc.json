@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "McKinsey DA1 - Generic Automation Beginner: File & State Orchestration",
+    "Language": "English",
+    "BaseURL": "https://github.com/bhavangowdan/testpush",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/bhavangowdan/testpush/main/DA1-Generic-Automation-Beginner/lab-guide/lab-guide-1.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/bhavangowdan/testpush/main/DA1-Generic-Automation-Beginner/lab-guide/lab-guide-2.md",
+        "Order": 2
+      }
+    ]
+  }
+]
